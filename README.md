@@ -1,2 +1,2 @@
-# omnilearn
+# OmniLearn
 My AI study app
